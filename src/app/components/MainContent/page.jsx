@@ -1,5 +1,5 @@
 
-import wheretosleep from "public/cannes12.jpg";
+import wheretosleep from "public/bgtest.webp";
 import MainPicWrapper from './../MainPicWrapper/page';
 import BookingWidget from './../BookingWidget/page';
 import Image from 'next/image';

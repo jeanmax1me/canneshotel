@@ -18,10 +18,10 @@ function Header() {
                 >
                     <nav className={proza.className}>
                         <ul className="flex">
-                            <li><a href="">Hotels</a></li>
-                            <li><a href="">Apartments</a></li>
-                            <li><a href="">Villas</a></li>
-                            <li><a href="">Budget-Friendly</a></li>
+                            <li><a href="https://www.booking.com/searchresults.en-gb.html?aid=8066595&dest_id=-1416533&dest_type=city">Hotels</a></li>
+                            <li><a href="https://www.booking.com/searchresults.en-gb.html?aid=8066595&dest_id=-1416533&dest_type=city">Apartments</a></li>
+                            <li><a href="https://www.booking.com/searchresults.en-gb.html?aid=8066595&dest_id=-1416533&dest_type=city">Villas</a></li>
+                            <li><a href="https://www.booking.com/searchresults.en-gb.html?aid=8066595&dest_id=-1416533&dest_type=city">Budget-Friendly</a></li>
                         </ul>
                     </nav>
                 </motion.div>
