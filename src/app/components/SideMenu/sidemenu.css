@@ -1,0 +1,18 @@
+h3 {
+    background-color: #0074A2;
+    border-radius: 8px;
+    color: #F4F4F4;
+    padding-left: 10px;
+}
+
+h2 {
+   color:  #0074A2;
+}
+
+h1 {
+    margin-bottom: 20px;
+    @apply text-2xl;
+    display: flex;
+    text-align: center;
+    color: #333333;
+}

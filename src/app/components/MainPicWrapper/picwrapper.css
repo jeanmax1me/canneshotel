@@ -1,0 +1,26 @@
+
+.main-image-wrapper {
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+position: relative;
+display: inline-table;
+width: calc(100vw - 20px);
+max-width: 100%;
+overflow-clip-margin: content-box;
+overflow-wrap: break-word;
+overflow-x: clip;
+overflow-y: clip;
+margin-bottom: 20px;
+margin-top: 20px;
+padding-right: 20px;
+display: block;
+aspect-ratio: auto 900 / 600;
+max-height: 450px;
+}
+
+@media (max-width: 760px) {
+.main-image-wrapper {
+width: calc(100vw - 20px);
+max-width: 720px;
+}}

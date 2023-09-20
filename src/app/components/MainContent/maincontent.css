@@ -1,0 +1,17 @@
+.main-headings {
+    margin-bottom: 0.2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 22px;
+}
+
+.main-subtitle {
+    font-size: 17px;
+}
+
+@media (min-width: 1350px) {
+ .main-content-wrapper {
+    max-width: 900px;
+ }
+}
