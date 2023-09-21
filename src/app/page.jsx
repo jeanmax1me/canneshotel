@@ -8,14 +8,14 @@ export default function Home({ children }) {
   return (
     <>
        <div className="container">
-      <Script src="https://www.googletagmanager.com/gtag/js?id=G-B7K7MZ0ZHF" />
+      <Script src="https://www.googletagmanager.com/gtag/js?id=G-12HXW3XN43" />
       <Script id="google-analytics">
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
  
-          gtag('config', 'G-B7K7MZ0ZHF');
+          gtag('config', 'G-12HXW3XN43');
         `}
       </Script>
     </div>
